@@ -6,7 +6,9 @@ description: |
   post.
 author: "Camille Huitorel"
 date: today
-draft: true
+draft: false
 bibliography: "../../Bibliography_homework.bib"
 
 ---
+# 
+
