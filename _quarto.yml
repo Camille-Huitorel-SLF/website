@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Camille Huitorel"
+  site-url: https://camille-huitorel-slf.github.io/website/
   navbar:
     left:
       - href: index.qmd
