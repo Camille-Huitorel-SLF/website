@@ -2,7 +2,8 @@
 title: "Camille Huitorel"
 format: 
   html: 
-    mainfont: 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
+    mainfont: serif
+    linkcolor: rgb(214, 122, 127)
 
 image: images/photo_linkedin.jpg
 about:
