@@ -5,10 +5,11 @@ description: |
   This is a template from which the YAML metadata can be copied for a new blog
   post.
 author: "Camille Huitorel"
-date: today
+date: 2023/05/01
 draft: false
 bibliography: "../../Bibliography_homework.bib"
 
 ---
-# 
-
+# First day at SLF!
+I start my PhD today !
+![SLF](https://www.independentsnowboarding.com/wp-content/uploads/2018/10/slf-logo.png){width=10%}
