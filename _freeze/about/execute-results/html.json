@@ -1,0 +1,14 @@
+{
+  "hash": "ddcd511d121703dd50b1b2da3e43dbda",
+  "result": {
+    "markdown": "---\ntitle: \"Camille Huitorel\"\nformat: html\nimage: images/photo_linkedin.jpg\nabout:\n  template: trestles\n  image-width: 10em\n  image-shape: round\n  links:\n    - icon: github\n      text: Github\n      href: https://github.com/Camille-Huitorel-SLF\n    - icon: linkedin\n      text: Linkedin\n      href: www.linkedin.com/in/camille-huitorel-461407210\n    - icon : orcid\n      text: Orcid\n      href: https://orcid.org/0009-0007-2642-8661\n---\n\n\nPhD student at the avalanche research center WSL-SLF Davos and the University ETH Zurich, I'm working with a numerical coupling method named CFD-DEM ('Continuum Fluid Dynamics and Discrete Element Method\") to decipher the influence of saturation degree and of pore pressure within bed sediment on the entrainment rate and flow mobility of Alpine Mass Movements.\n\nRecently graduated with two masters in geophysics, with a specialty in telluric natural risks from 'Institut Physique du Globe de Paris' in Paris, I have also a good background in the processing of seismic, geospatial or electrical, magnetic acquisition data, and so on.\\\n\\\nI am also able to develop advanced tools in Python: for visualization, data processing, for the development of models and simulation tools, for detection and classification thanks to the integration of machine learning models.\n\n## Education\n\nWSL-SLF Davos and ETH Zurich \\| Doctorate \\| May 2023 - *present*\n\nInstitut Physique du Globe de Paris \\| Applied Geophysics - Master Degree \\| Sept 2021 - August 2022\n\nInstitut Physique du Globe de Paris \\| Natural Hazards (Geophysics) - Master Degree \\| Sept 2019 - August 2021\n\nUniversité Rennes 1 \\| Geosciences - Bachelor Degree \\| Sept 2018 - August 2019\n\n## Experience\n\nEDF Paris-Saclay \\| Master laboratory Intern \\| April 2022 - Oct 2022\n\nBRGM Orléans \\| Master laboratory Inter \\| Mars 2021 - August 2021\n\nBRGM St-Denis Reunion Island \\| Master laboratory Intern \\| Feb 2020 - August 2020\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
