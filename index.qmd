@@ -1,6 +1,9 @@
 ---
 title: "Camille Huitorel"
-format: html
+format: 
+  html: 
+    mainfont: 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
+
 image: images/photo_linkedin.jpg
 about:
   template: trestles
@@ -26,19 +29,18 @@ I am also able to develop advanced tools in Python: for visualization, data proc
 
 ## Education
 
-WSL-SLF Davos and ETH Zurich \| Doctorate \| May 2023 - *present*
+**WSL-SLF in Davos and ETH in Zurich** \| Doctorate \| May 2023 - *present*
 
-Institut Physique du Globe de Paris \| Applied Geophysics - Master Degree \| Sept 2021 - August 2022
+**Institut Physique du Globe de Paris in Paris** \| Applied Geophysics - Master Degree \| Sept 2021 - August 2022
 
-Institut Physique du Globe de Paris \| Natural Hazards (Geophysics) - Master Degree \| Sept 2019 - August 2021
+**Institut Physique du Globe de Paris in Paris** \| Natural Hazards (Geophysics) - Master Degree \| Sept 2019 - August 2021
 
-Université Rennes 1 \| Geosciences - Bachelor Degree \| Sept 2018 - August 2019
+**Université Rennes 1 in Rennes** \| Geosciences - Bachelor Degree \| Sept 2018 - August 2019
 
 ## Experience
 
-EDF Paris-Saclay \| Master laboratory Intern \| April 2022 - Oct 2022
+**EDF Paris-Saclay** \| Master laboratory Intern \| April 2022 - Oct 2022
 
-BRGM Orléans \| Master laboratory Inter \| Mars 2021 - August 2021
+**BRGM in Orléans** \| Master laboratory Inter \| Mars 2021 - August 2021
 
-BRGM St-Denis Reunion Island \| Master laboratory Intern \| Feb 2020 - August 2020
-
+**BRGM in St-Denis Reunion Island** \| Master laboratory Intern \| Feb 2020 - August 2020
